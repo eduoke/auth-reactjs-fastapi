@@ -1,9 +1,9 @@
-## Description 
+## Description
 
-A full-stack login web application. With JWT token this web app is the best fully responsive FastAPI and React JS login page . 
+A full-stack login web application. With JWT token this web app is the best fully responsive FastAPI and React JS login page .
 
 Frontend - Reactjs and Tailwind
-Backend - FastAPI, Postgresql 
+Backend - FastAPI, Postgresql
 
 # Functionality:-
 
@@ -15,7 +15,7 @@ Backend - FastAPI, Postgresql
 # Backend structure
 
 Backend --
-         |-------- app 
+         |-------- app
          |          |
                     |--------Controller  (manage of the REST api interface to the business logic)
                     |
@@ -26,7 +26,3 @@ Backend --
                     |--------services   (business logic implementation)
          |
          |-------- media
-
-
-
-        
